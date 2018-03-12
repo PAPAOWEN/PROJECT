@@ -1,10 +1,9 @@
 # New-Project
 # Big Picture 
-In this project I will be looking forward to develope a program that can be used to calculate complex equations with one(or two?) variable.The calculators that we normally use in school are usually limited in terms of their ability to calculate the eaquations with variable in them.Even if for one who is familar with these calculators, it takes a lot of work to figure out how to solve a equation on the calculator.So I want to create this program that can essentially reduce the complexity of this process that the user only needs to put in the constants presented and the result would just come out automatically.
-Eventually I want this program to be able to solve calculus1 equations at least.
+this project is designed for quadratic function calculation, and it will use Pygame to create the graphics of this programm. In order to use Pygame as part of the project, I want to create a programm that shows a calculator that has different functions.
 
 # First Step
-For the first round I am looking forward to create a program that can determine the number of solutions that one quadratic equation has. Which is a classic problem in Trig that takes rather a long time to finish.
+For the first round I am looking to first create the graphics of this program and focus mainly on quadratic functions that was already done in the last part of the projet.
 
 # TEST PLAN
 In order to check if my program is working, the users can type in equations that they already know the number of solutions and to check if the result from my program. I suggest testing the program at least with three different equations.
